@@ -1,5 +1,5 @@
 # 💬 O que é:
-Consiste em um dashboard de vendas de skates da microsoft (OneNote, Word, PowerBi, etc...)
+Consiste em um dashboard de vendas de skates da Microsoft (OneNote, Word, Power Bi, etc...)
 
 # :clipboard: Informações de navegação:
 * Clique em "Explore o relatório" para ir para a página principal, nela você terá vários dados que pode clicar e alguns ira alterar todos os outros gráficos
